@@ -9,7 +9,7 @@
 ## Table of Contents
 
 1. [January](#January)
-2. [Febuary](#Febuary)
+2. [February](#Febuary)
 3. [March](#March)
 4. [April](#April)
 5. [May](#May)
@@ -46,7 +46,7 @@ What is the half life of open source contributors (i.e., how long does it a take
 Why is feature parity the basis of comparison between FOSS software and proprietary software with 'freedom' not being included?  
 
 #### Week 3  
-What are the charasteristics of a 'good' question?  
+What are the characteristics of a 'good' question?  
 
 To what extent do multiple academic performance measures converge on the same outcome given identical input?  
 
@@ -61,13 +61,13 @@ Can we use response rates as input to genetic computation of 'better' SPAM?
 What is the relationship between account creation and receiving account targeted SPAM or phishing email?                    
 
 #### Week 4  
-Does knowing how the (human) brain works physiologicaly tell us how consciousness works?  
+Does knowing how the (human) brain works physiologically tell us how consciousness works?  
 
-Is the difference between a conscious mind and an unconcious mind the amount of (hidden) layers substrating propagation of neural impulses?  
+Is the difference between a conscious mind and an unconscious mind the amount of (hidden) layers substrating propagation of neural impulses?  
 
 Will machine consciousness have the same idea of individuality as primate consciousness?  
 
-Is the probabilty of corruption in an arbitrary sequence of input computationaly knowable?  
+Is the probability of corruption in an arbitrary sequence of input computationally knowable?  
 
 Is there a significant difference between the efficacy of self-study compared to guided study?  
 
@@ -75,7 +75,7 @@ Is there a significant difference between the efficacy of synchronous distance l
 
 What are the necessary components of a conceptual framework for post-transhumanist trust?  
 
-## Febuary
+## February
 #### Week 1  
 Is the risk of executing untrusted code obviated by robust egress network filtering?  
 
@@ -117,7 +117,7 @@ How does cybersecurity research incorporate 'human factors' (as defined by Stram
 
 How effective is completing a 'hard' programming challenge in entirety compared to punctuated experience across multiple 'Easy' progrsmming challenges?  
 
-*To what degree does Meyers-Briggs personlity type correlate with doctoral student performance in designing research?*  
+*To what degree does Meyers-Briggs personality type correlate with doctoral student performance in designing research?*  
 
 What is the optimal frequency of laboratory exercise intervention on the learning experience compared to pre-defined KSA units?  
 
@@ -132,7 +132,7 @@ What is the optimal frequency of laboratory exercise intervention on the learnin
 
 *How will a synthetic intelligence describe its own epistemology (e.g. Externalism vs. Internalism)?*  
 
-*What mechanisms will a synthetic intelligence develop to assure integrity of environmental stimili?*
+*What mechanisms will a synthetic intelligence develop to assure integrity of environmental stimuli?*
 
 *To what extent will synthetic intelligence develop personality architectype(s) outside of the existing spectrum?*  
 
@@ -146,7 +146,7 @@ What is the relationship between multitasking and cognitive fatigue?
 
 Is there an optimal task (or type of task) to schedule during pomodoro interval breaks?  
 
-What factors have a validated, positive effect on producitivity throughput?
+What factors have a validated, positive effect on productivity throughput?
 
 To what extent does technology have an effect on multitasking throughput and cognitive load?  
 
@@ -206,6 +206,6 @@ What are the most common features associated with word processor files intended 
 
 What is the mean lifetime for word processor applications between file format change?  
 
-How does a word processing system preserve semantic meaning across file format evoluations?  
+How does a word processing system preserve semantic meaning across file format evolutions?  
 
  
