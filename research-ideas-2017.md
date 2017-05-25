@@ -1,15 +1,15 @@
 # Research Ideas - 2017
 
- I am adding seven (new) entries to a research idea brainstorming list each week, over the course of 2017. Each block of research ideas are organized according to a month-week structure. Where a week overlaps between months, if the week is the fourth in the ending month the list update belongs to that month. Otherwise, the overlap serves as the first week in the beginning month.
+I am adding seven (new) entries to a research idea brainstorming list each week, over the course of 2017. Each block of research ideas are organized according to a month-week structure. Where a week overlaps between months, if the week is the fourth in the ending month the list update belongs to that month. Otherwise, the overlap serves as the first week in the beginning month.
 
- This content is intended for public use but does represent scholarly work. As such, I feel that a Creative Commons BY-SA license (Attribution + ShareAlike) is attached. 
+This content is intended for public use but does represent scholarly work. As such, I feel that a Creative Commons BY-SA license (Attribution + ShareAlike) is attached. 
 
- Thus, I encourage you to use these ideas as springboards for your own research. Quote, mix & match, revise...do whatever you feel inspired to do with the entries. I do ask that if a list entry is *italicized*, please do not use that exact entry in your work. An italicized entry means that I am using the idea.  
+Thus, I encourage you to use these ideas as springboards for your own research. Quote, mix & match, revise...do whatever you feel inspired to do with the entries. I do ask that if a list entry is *italicized*, please do not use that exact entry in your work. An italicized entry means that I am using the idea.  
 
 ## Table of Contents
 
 1. [January](#January)
-2. [February](#Febuary)
+2. [February](#February)
 3. [March](#March)
 4. [April](#April)
 5. [May](#May)
@@ -26,7 +26,7 @@ What are the most common categories in cyber security jeopardy competitions? Are
 
 Do seminal studies in cyber security lab literature experience significant replication? To what extent are quantitative results validated?  
 
-Does completing homework produce a statistically significant increase in academic performance?  
+Does completing homework produce a statistically significant increase in academic performance?   
 
 Why do we need to define a rule against violence/harm for AI (e.g. Asimov’s 3rd Law).  
 
@@ -107,7 +107,7 @@ How does the CPU usage profile of a virus that infects a particular file system 
 Does a keylogger produce a measurable ghost pattern as a user types?  
 
 #### Week 3  
-Can programmer skill be measured according to what extent solutions to a given type of problem (e.g. search, sort, etc.) are expressed with a richer semantic basis?  
+Can programmer skill be measured according to what extent solutions to a given type of problem (e.g., search, sort, etc.) are expressed with a richer semantic basis?   
 
 What are the pedagogical qualities that comprise a 'hard' (rigorous) undergraduate course?  
 
@@ -115,7 +115,7 @@ How does cybersecurity research incorporate 'human factors' (as defined by Stram
 
 *What elements should be included in a conceptual framework for assuring confidentiality in synthetic cellular communication signaling?*
 
-How effective is completing a 'hard' programming challenge in entirety compared to punctuated experience across multiple 'Easy' progrsmming challenges?  
+How effective is completing a 'hard' programming challenge in entirety compared to punctuated experience across multiple 'Easy' programming challenges?   
 
 *To what degree does Meyers-Briggs personality type correlate with doctoral student performance in designing research?*  
 
@@ -134,7 +134,7 @@ What is the optimal frequency of laboratory exercise intervention on the learnin
 
 *What mechanisms will a synthetic intelligence develop to assure integrity of environmental stimuli?*
 
-*To what extent will synthetic intelligence develop personality architectype(s) outside of the existing spectrum?*  
+*To what extent will synthetic intelligence develop personality archetype(s) outside of the existing spectrum?*   
 
 ## March  
 #### Week 1  
@@ -153,13 +153,13 @@ To what extent does technology have an effect on multitasking throughput and cog
 What validated determinants exist for the objective measurement of task throughput and cognitive load?  
 
 #### Week 2  
-Does time of day wake up preference affect task productivity?
-
-What is the optimal time of day wake period for creative task productivty?  
+Does time of day wake up preference affect task productivity?  
 
 Is there a specific genetic polymorphism or polymorphisms associated with shortened sleep cycles yielding restorative effects?  
 
-To what extent do polyphasic sleep cycles have a positive effect on task producivity compared to monophasic sleep?
+To what extent do polyphasic sleep cycles have a positive effect on task productivity compared to monophasic sleep?
+
+What is the optimal time of day wake period for creative task productivity?  
 
 Does a validated protocol exist for measuring the minimal amount of sleep necessary to maintain maximum task performance?  
 
@@ -170,8 +170,11 @@ What are the early warning cognitive expressions of sleep debt?
 #### Week 3  
 Are there any biological signaling mechanisms that have evolved to prevent eavesdropping?  
 
- 
+What are common characteristics of biological organism authentication?  
 
+How do single-cell organisms identify environmental threats?
+
+What simple rules do individual bacterium follow when avoiding (evading) threats such as bacteriophages?  
 
 #### Week 4  
 What are the characteristics of a competent research mentor?  
@@ -187,6 +190,8 @@ To what extent is there a measurable difference between single competency examin
 
 ## April
 #### Week 1  
+To what extent are energy signatures of IoT devices normative by device type but across disparate manufacturers?  
+
 #### Week 2  
 #### Week 3  
 #### Week 4  
@@ -194,12 +199,23 @@ To what extent is there a measurable difference between single competency examin
 
 *Can a non-invasive brain-computer interface be used to operate common cybersecurity tools (e.g. Nmap)?*  
 
-
 ## May  
 #### Week 1  
 #### Week 2  
 #### Week 3
 How do game engine mechanisms co-evolve alongside gaming community preferences for game features?
+
+How effective are game AI agents in teaching players game rules while serving as an opponent?  
+
+What characteristics of a game AI agent contribute to player perception of difficulty?  
+
+What game AI agent attributes contribute to the player perception of life-like behavior?
+
+How do players experience knowledge trust when interacting with autonomous game AI agents?  
+
+To what extent can an established game AI agent be used to train a new AI agent? Are behaviors identically reproduced?  
+
+How are game AI agents able to express internal knowledge of learned behaviors?  
    
 #### Week 4  
 What are the most common features associated with word processor files intended to be future-proof readable?  
@@ -208,4 +224,12 @@ What is the mean lifetime for word processor applications between file format ch
 
 How does a word processing system preserve semantic meaning across file format evolutions?  
 
- 
+To what extent are (plain) text files more resistant to data degradation than word processor generated files?  
+
+What is a validated measure of *mean* time of data degradation in text files? Does the mean time vary by storage media?
+
+What is the relationship between word processor software decay and data degradation of the files generated by the software?  
+
+To what extent do frequently accessed text files incur data degradation compared to infrequently access text files?  
+
+## June
