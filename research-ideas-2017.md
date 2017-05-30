@@ -176,6 +176,12 @@ How do single-cell organisms identify environmental threats?
 
 What simple rules do individual bacterium follow when avoiding (evading) threats such as bacteriophages?  
 
+How do simple multicellular organisms detect duplicated chemical signals?  
+
+What is the maximum information threshold present in single cell organism chemical communication pathways?  
+
+What are the performance differences between digital communication pathways (e.g. copper, fiber optic, etc.) and biological signal transduction?  
+
 #### Week 4  
 What are the characteristics of a competent research mentor?  
 
@@ -187,10 +193,14 @@ To what degree do various quantitative measures of research competency converge 
 
 To what extent is there a measurable difference between single competency examination compared to multi-phased examination?
 
+How can professor and student competencies be combined to maximize learning?  
+
+What are residency curricular best practices in evaluating faculty research competencies?  
 
 ## April
 #### Week 1  
 To what extent are energy signatures of IoT devices normative by device type but across disparate manufacturers?  
+
 
 #### Week 2  
 #### Week 3  
@@ -202,6 +212,7 @@ To what extent are energy signatures of IoT devices normative by device type but
 ## May  
 #### Week 1  
 #### Week 2  
+
 #### Week 3
 How do game engine mechanisms co-evolve alongside gaming community preferences for game features?
 
@@ -216,7 +227,6 @@ How do players experience knowledge trust when interacting with autonomous game 
 To what extent can an established game AI agent be used to train a new AI agent? Are behaviors identically reproduced?  
 
 How are game AI agents able to express internal knowledge of learned behaviors?  
-   
 #### Week 4  
 What are the most common features associated with word processor files intended to be future-proof readable?  
 
