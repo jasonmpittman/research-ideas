@@ -203,7 +203,11 @@ To what extent are energy signatures of IoT devices normative by device type but
 
 
 #### Week 2  
+
+
 #### Week 3  
+
+
 #### Week 4  
 *To what degree do cognitive tasks associated with common cybersecurity tool use (e.g. Nmap) produce unique EEG patterns?*  
 
@@ -211,7 +215,22 @@ To what extent are energy signatures of IoT devices normative by device type but
 
 ## May  
 #### Week 1  
+What is the psychological effect of calling an activity a 'game' compared to a 'competition'?
+
+To what degree does citation count correlate with quality of published research within the citation list?
+
+What is a sufficiently large citation count to be perceived as being a source of learning?
+
+
 #### Week 2  
+How can bidirectional knowledge trust be measured in an artificial intelligence tutoring system?  
+
+Why has pedagogical theory evolved over time to be less objectivist and more constructionist?  
+
+To what extent does academic assessment have a positive effect on in-class student performance?
+
+How will an artificial intelligence tutor express an epistemology for *knowing* a concept versus an operation?  
+
 
 #### Week 3
 How do game engine mechanisms co-evolve alongside gaming community preferences for game features?
@@ -243,3 +262,19 @@ What is the relationship between word processor software decay and data degradat
 To what extent do frequently accessed text files incur data degradation compared to infrequently access text files?  
 
 ## June
+
+#### Week 1
+
+What is an optimal pedagogical framework for teaching undergraduate mathematics in a synchronous online computer science program?  
+
+How are students most effectively incentivized to complete homework assignments in a synchronous online undergraduate mathematics course?  
+
+Do students perceive online synchronous mathematics courses to be as effective as traditional on-campus courses?
+
+What is an optimal number of homework assignments in an online synchronous mathematics course, including the number of questions per assignment?  
+
+To what degree is game-based learning an effective pedagogy for advanced mathematics instruction?
+
+What features would a game engine need to be used as a situated learning platform for teaching advanced mathematics?  
+
+To what extent do students use syllabus defined learning outcomes to measure self-efficacy in learning during undergraduate coursework?
