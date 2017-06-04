@@ -199,7 +199,10 @@ What are residency curricular best practices in evaluating faculty research comp
 
 ## April
 #### Week 1  
-To what extent are energy signatures of IoT devices normative by device type but across disparate manufacturers?  
+What is an effective assessment schedule for semester length undergraduate computer science courses to maximize learning?  
+
+To what extent are more frequent but smaller in scope examinations effective at maximizing learning compared less frequent but larger in scope examinations?  
+How do undergraduate students perceive flexible 'contract grading' curricula compared to traditional curricular scheduling of weekly homework, midterm examination, and final examination?  
 
 
 #### Week 2  
