@@ -234,6 +234,10 @@ To what extent does academic assessment have a positive effect on in-class stude
 
 How will an artificial intelligence tutor express an epistemology for *knowing* a concept versus an operation?  
 
+What effects do free MOOCs have on the instructional design of undergraduate computer science courses?  
+
+What are information systems student perceptions of free, online knowledge (e.g., MOOCs, YouTube, MIT Open Courseware) compared to the courses those students complete as part of their degree program?  
+
 
 #### Week 3
 How do game engine mechanisms co-evolve alongside gaming community preferences for game features?
@@ -267,7 +271,6 @@ To what extent do frequently accessed text files incur data degradation compared
 ## June
 
 #### Week 1
-
 What is an optimal pedagogical framework for teaching undergraduate mathematics in a synchronous online computer science program?  
 
 How are students most effectively incentivized to complete homework assignments in a synchronous online undergraduate mathematics course?  
@@ -280,4 +283,9 @@ To what degree is game-based learning an effective pedagogy for advanced mathema
 
 What features would a game engine need to be used as a situated learning platform for teaching advanced mathematics?  
 
-To what extent do students use syllabus defined learning outcomes to measure self-efficacy in learning during undergraduate coursework?
+To what extent do students use syllabus defined learning outcomes to measure self-efficacy in learning during undergraduate coursework?  
+
+#### Week 2  
+What are the differences in how students perceive volume of homework assignments in an online synchronous course compared to a traditional on-campus course?  
+
+How do students perception of self-efficacy in discrete mathematics homework assignments compare to actual grades on the same assignments?
