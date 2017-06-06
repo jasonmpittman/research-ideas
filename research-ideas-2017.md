@@ -206,6 +206,11 @@ How do undergraduate students perceive flexible 'contract grading' curricula com
 
 
 #### Week 2  
+What is the potential increase in game wins by Twitch.tv streamers with large subscriber bases compared to those with smaller subscriber bases?  
+
+How does crowdsourcing of game mechanics details (e.g. looting) to a subscriber base influence the win rate of Twitch.tv streamers?  
+
+To what extent is there a cognitive offload associated with a play performance increase for Twitch.tv streamers that have interactive subscribers?  
 
 
 #### Week 3  
@@ -288,4 +293,10 @@ To what extent do students use syllabus defined learning outcomes to measure sel
 #### Week 2  
 What are the differences in how students perceive volume of homework assignments in an online synchronous course compared to a traditional on-campus course?  
 
-How do students perception of self-efficacy in discrete mathematics homework assignments compare to actual grades on the same assignments?
+How do students perception of self-efficacy in discrete mathematics homework assignments compare to actual grades on the same assignments?  
+
+What are pedagogical best practices for maximizing in-class participation by undergraduate computer science students?  
+
+To what extent can undergraduate mathematics be effectively taught using a situated learning pedagogy?  
+
+What are the instructional design differences (e.g. assignments, lectures, etc.) between undergraduate and graduate same subject mathematics courses?  
