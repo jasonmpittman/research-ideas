@@ -300,3 +300,9 @@ What are pedagogical best practices for maximizing in-class participation by und
 To what extent can undergraduate mathematics be effectively taught using a situated learning pedagogy?  
 
 What are the instructional design differences (e.g. assignments, lectures, etc.) between undergraduate and graduate same subject mathematics courses?  
+
+What are validated, non-traditional pedagogies for teaching programming to undergraduate students?  
+
+What are best practices for structuring assignments from the perspective of undergraduate computer science students?  
+
+#### Week 3
