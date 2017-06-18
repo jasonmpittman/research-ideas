@@ -306,3 +306,18 @@ What are validated, non-traditional pedagogies for teaching programming to under
 What are best practices for structuring assignments from the perspective of undergraduate computer science students?  
 
 #### Week 3
+*What is the optimal game type for teaching graduate level quantitative data analysis?*
+
+*What are the most common learning outcomes as indicated in graduate level quantitative data analysis syllabi?*
+
+*To what degree do graduate students prefer to generate primary data in a case study based quantitative data analysis course compared to using secondary data?*
+
+*How do working professional graduate students perceive game-based case studies in a quantitative data analysis course?*
+
+*What are common issues encountered by graduate students in a quantitative data analysis course that uses game-based case method instruction?*
+
+*What quantitative data analysis topics are appropriate for case study based graduate course?*
+
+*What are appropriate academic assessment measures for an online, case method driven graduate quantitative data analysis course?*  
+
+
