@@ -13,6 +13,7 @@ Thus, I encourage you to use these ideas as springboards for your own research. 
 3. [March](#March)
 4. [April](#April)
 5. [May](#May)
+6. [June](#June)
 
 ## January
 #### Week 1
@@ -319,5 +320,25 @@ What are best practices for structuring assignments from the perspective of unde
 *What quantitative data analysis topics are appropriate for case study based graduate course?*
 
 *What are appropriate academic assessment measures for an online, case method driven graduate quantitative data analysis course?*  
+
+#### Week 4
+
+*What are the publishing trends in gamification of computer science undergraduate education in the United States?*  
+
+*To what extent is game theorycrafting used to teach undergraduate students research methods?*  
+
+*How has the amount of published research using World of Warcraft as the primary research context varied alongside subscription numbers?*  
+
+*What player behaviors (e.g., movement, cooperation, weapon choices, cover use, open camping) in action battle royal type games most often lead to victory?*  
+
+*What player behavariors are perceived as ethical violations within the virtual world of action battle royal games?*  
+
+*To what extent are there ethnological differences between PvE-centric MMORPG players and PvP action battle royal players?*  
+
+*To what degree does theorycrafting in PvE-centric MMORPG games influence the behavior of casual players?*
+
+## July
+
+#### Week 1 
 
 
