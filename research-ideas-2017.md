@@ -363,3 +363,24 @@ To what extent is there a measurable difference between undergraduate students t
 How does cognitive bandwidth capacity correlate with undergraduate students' selection of degree major and extracurricular activities?
 
 #### Week 3
+To what extent does absence of vocational education in cybersecurity contribute to the increasing workforce labor gap?  
+
+How can the growth of employment opportunities within field of cybersecurity be described according to taxonomic constructs?  
+
+What advantages would vocational education in cybersecurity hold compared to academic education in the same topic?  
+
+How can the necessary entry-level skills for entering the cybersecurity workforce be described in a dependency chart and what is the associated optimal build order?  
+
+To what extent does cybersecurity skill development depend upon ultimate vocational goal?  
+
+What decision-making processes are used by undergraduate STEM program students to determine their first vocation?  
+
+How common is lateral job movement between specialties within the cybersecurity profession?  
+
+#### Week 4
+
+How do undergraduate faculty determine an optimal pedagogy for cybersecurity coursework?  
+
+To what extent are adjunct faculty aware of prominent cognitive learning theories?
+
+What factors do adjunct undergraduate faculty in a cybersecurity degree program consider when designing a new course?
