@@ -383,4 +383,16 @@ How do undergraduate faculty determine an optimal pedagogy for cybersecurity cou
 
 To what extent are adjunct faculty aware of prominent cognitive learning theories?
 
-What factors do adjunct undergraduate faculty in a cybersecurity degree program consider when designing a new course?
+What factors do adjunct undergraduate faculty in a cybersecurity degree program consider when designing a new course?  
+
+To what degree are undergraduate cybersecurity curricula consistent with the classical framework of an *academy*?  
+
+To what extent are *grammar, logic, and rhetoric* present in established Community of Practice disciplines compared to cybersecurity?  
+How can the lower division of the Liberal Arts be mapped to modern STEM academic curricula?  
+
+What are common learning outcomes for an undergraduate cybersecurity curriculum as defined by existing professionals?
+
+#### Week 5  
+*What are the common theories of ethics emergent in cybersecurity education literature?*  
+
+ 
