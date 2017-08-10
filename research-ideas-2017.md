@@ -395,4 +395,17 @@ What are common learning outcomes for an undergraduate cybersecurity curriculum 
 #### Week 5  
 *What are the common theories of ethics emergent in cybersecurity education literature?*  
 
- 
+ What challenges do full-time cybersecurity faculty face in distance education?  
+
+ To what extent is there a difference in student academic performance in undergraduate cybersecurity degree programs between distance, hybrid, and on-campus education settings?  
+
+ What are the potential differences between the spirit of degree outcomes in a master of science degree in cybersecurity program compared to the realized degree outcomes?  
+
+ How has the intent of graduate academics in STEM evolved over the past two decades?  
+
+ To what extent are the determinants for matriculating into a cybersecurity four year degree program aligned with the broader determinants measured by Montmarquette et al. (2002)?  
+
+ How does selection of major area of study correlate with academic performance in private four year institutions?  
+
+## August
+#### Week 1
