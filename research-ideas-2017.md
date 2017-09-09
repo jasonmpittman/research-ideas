@@ -14,8 +14,11 @@ Thus, I encourage you to use these ideas as springboards for your own research. 
 4. [April](#April)
 5. [May](#May)
 6. [June](#June)
+7. [July](#July)
+8. [August](#August)
+9. [September](#September)
 
-## January
+## <a name="January"></a>January
 #### Week 1
 To what extent do cybersecurity course objectives in higher education correlate with cybersecurity job openings?  
 
@@ -76,7 +79,7 @@ Is there a significant difference between the efficacy of synchronous distance l
 
 What are the necessary components of a conceptual framework for post-transhumanist trust?  
 
-## February
+## <a name="February"></a>February
 #### Week 1  
 Is the risk of executing untrusted code obviated by robust egress network filtering?  
 
@@ -137,7 +140,7 @@ What is the optimal frequency of laboratory exercise intervention on the learnin
 
 *To what extent will synthetic intelligence develop personality archetype(s) outside of the existing spectrum?*   
 
-## March  
+## <a name="March">March  
 #### Week 1  
 What are time management (productivity) best practices for minimizing distraction and maximizing output?  
 
@@ -198,7 +201,7 @@ How can professor and student competencies be combined to maximize learning?
 
 What are residency curricular best practices in evaluating faculty research competencies?  
 
-## April
+## <a name="April">April
 #### Week 1  
 What is an effective assessment schedule for semester length undergraduate computer science courses to maximize learning?  
 
@@ -219,7 +222,7 @@ To what extent is there a cognitive offload associated with a play performance i
 
 *Can a non-invasive brain-computer interface be used to operate common cybersecurity tools (e.g. Nmap)?*  
 
-## May  
+## <a name="May">May  
 #### Week 1  
 What is the psychological effect of calling an activity a 'game' compared to a 'competition'?
 
@@ -271,7 +274,7 @@ What is the relationship between word processor software decay and data degradat
 
 To what extent do frequently accessed text files incur data degradation compared to infrequently access text files?  
 
-## June  
+## <a name="June">June  
 #### Week 1
 What is an optimal pedagogical framework for teaching undergraduate mathematics in a synchronous online computer science program?  
 
@@ -331,7 +334,7 @@ What are best practices for structuring assignments from the perspective of unde
 
 *To what degree does theorycrafting in PvE-centric MMORPG games influence the behavior of casual players?*
 
-## July
+## <a name="July">July
 #### Week 1 
 *How does the perception of information permanency vary across demographic categories?*  
 
@@ -407,5 +410,34 @@ What are common learning outcomes for an undergraduate cybersecurity curriculum 
 
  How does selection of major area of study correlate with academic performance in private four year institutions?  
 
-## August
+## <a name="August">August
 #### Week 1
+
+Do Android vulnerabilities potentially vary with released feature changes?  
+
+How does OWASP top ten potentially vary with trends in developer application stacks?  
+
+To what extent can exploits of software vulnerabilities be detected through energy consumption?
+
+How does detection of energy consumption patterns in an exploit of client software compare to a similar exploit in an equivalent web-based application (e.g. Word compared to Office 365 Word)?  
+
+
+
+#### Week 2  
+
+*To what extent can monitoring of EEG patterns differentiate between natural neurotranmissions and synthetic neurotranmissions?*  
+
+*To what degree can EEG signals be captured and replayed such that a brain-computer interface action is replicable?*  
+
+
+
+#### Week 3  
+
+#### Week 4  
+
+#### Week 5
+
+## <a name="September">September  
+#### Week 1  
+
+#### Week 2  
