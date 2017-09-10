@@ -421,7 +421,11 @@ To what extent can exploits of software vulnerabilities be detected through ener
 
 How does detection of energy consumption patterns in an exploit of client software compare to a similar exploit in an equivalent web-based application (e.g. Word compared to Office 365 Word)?  
 
+Does the perception of vulnerability significantly differ between programmers using unmanaged languages (C, C++) compared to programmers using managed languages (e.g. C#, Java)?  
 
+Do programmers perceive programming languages to be insecure or the implementation of the language (e.g. compiler)?
+
+To what extent can evolutionary biology inform the understanding of why secure coding *awareness training* does not appear to be effective? 
 
 #### Week 2  
 
@@ -429,7 +433,15 @@ How does detection of energy consumption patterns in an exploit of client softwa
 
 *To what degree can EEG signals be captured and replayed such that a brain-computer interface action is replicable?*  
 
+*What does a threat model for non-invasive brain-computer interface look like?*
 
+*What safety and trust issues exist for non-intrusive brain-computer interfaces between the wearer and device & vice-versa?*  
+
+*To what extent can input from a traditional physical peripheral (e.g. keyboard, mouse) be computationally differentiated from input from a non-intrusive brain-computer interface?*
+
+*What is the operational input maximal limit from a non-invasive brain-computer interface to software with robust command-line options?*
+
+*How can software be developed such that UI features, menu configurations, and feedback adapt to user mental state as measured through non-invasive brain-computer interface?*
 
 #### Week 3  
 
@@ -439,5 +451,6 @@ How does detection of energy consumption patterns in an exploit of client softwa
 
 ## <a name="September">September  
 #### Week 1  
+
 
 #### Week 2  
