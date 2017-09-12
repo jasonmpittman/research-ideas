@@ -445,6 +445,20 @@ To what extent can evolutionary biology inform the understanding of why secure c
 
 #### Week 3  
 
+How is the methodology of constructing an ontology potentially related to a progressive Trivium model?  
+
+To what extent does (simulated) environment inform development of ontologies?  
+
+What are the necessary components to construct a mutually understandable ontology in a given domain?  
+
+To what degree are object-oriented software design principles related to ontology construction principles?  
+
+Is there a significant difference between ontology construction steps and iterative research processes inherent to grounded theory design?  
+
+What are common limitations associated with ontology construction?
+
+What are common error points in ontology construction methodology?
+
 #### Week 4  
 
 #### Week 5
