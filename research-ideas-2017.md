@@ -461,7 +461,25 @@ What are common error points in ontology construction methodology?
 
 #### Week 4  
 
+What are the common differences and similarities between an ontology and a taxonomy?  
+
+How does a taxonomy extend an establish ontology?  
+
+Does an epistemology exist prior to constructing an ontology or come to exist as the ontology is situated into a context such as a taxonomy?  
+
+To what extent is construction of an ontology limited by the frame problem?  
+
+What are the common differences and similarities between a taxonomy and a folksonomy?
+
+How does the mean time for *tag* evolution in a folksonomy compare to the mean time for *descriptor* evolution in a taxonomy?  
+
+Which construct has a shorter mean lifespan: taxonomy, folksonomy, or ontology?  
+
 #### Week 5
+
+What is the optimal strategy for determining search keywords when conducting literature review?  
+
+
 
 ## <a name="September">September  
 #### Week 1  
