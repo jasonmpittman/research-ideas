@@ -479,10 +479,23 @@ Which construct has a shorter mean lifespan: taxonomy, folksonomy, or ontology?
 
 What is the optimal strategy for determining search keywords when conducting literature review?  
 
+To what extent do readers of academic research rate those studies with high keyword density and consistency in fundamental statements higher than studies with lower keyword density in the same statements?  
 
+What is the mean number of iterations (changes) to research problem statements made by doctoral students?
+
+Do higher rated research statements (i.e., problem, purpose, research question) undergo a significantly higher number of modifications before publication than similar statements with lower ratings?  
+
+To what extent do declared keywords appear more frequently in higher rated cybersecurity research literature compared to lower rated literature?  
+
+Is there a statistically significant mean difference between Flesh-Kincaid readability scores in cybersecurity research literature with a higher impact factor than literature with a lower impact factor?    
+
+Are there common decision-making strategies employed by doctoral students to determine the appropriate research method and research design for their dissertation?  
 
 ## <a name="September">September  
 #### Week 1  
+
+*To what extent is the EEG pattern different between non-invasive brain-computer interface wearers when executing the same brain speller exercise?*  
+
 
 
 #### Week 2  
