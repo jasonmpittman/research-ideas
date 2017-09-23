@@ -499,3 +499,6 @@ Are there common decision-making strategies employed by doctoral students to det
 
 
 #### Week 2  
+
+How do undergraduate students perceive academic research opportunities compared to graduate students?  
+
