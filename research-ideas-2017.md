@@ -502,3 +502,5 @@ Are there common decision-making strategies employed by doctoral students to det
 
 How do undergraduate students perceive academic research opportunities compared to graduate students?  
 
+What are best practices in soliciting undergraduate student participation in writing and publishing academic research?  
+
