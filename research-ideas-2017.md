@@ -496,7 +496,17 @@ Are there common decision-making strategies employed by doctoral students to det
 
 *To what extent is the EEG pattern different between non-invasive brain-computer interface wearers when executing the same brain speller exercise?*  
 
+*How do community college students perceive the cybersecurity risks associated with non-invasive brain-computer interfaces?*  
 
+*Which phase of non-invasive brain-computer interface has a measurably higher quantitative risk - signal acquisition, feature extraction, feature translations, or control signaling?*  
+
+*What features would be necessary in a secure containment field for brain-computer interface signal acquisition and feedback channels?*  
+
+*To what extent is a non-invasive brain-computer interface able to control a cybersecurity software tool compared to a traditional interface with training equivalent?*  
+
+*To what extent can a non-invasive brain-computer EEG headset be used in conjunction with a modified intrusion detection graphical interface to decrease type I and type II error rates in human operators?*  
+
+*How similar are EEG patterns between undergraduate students completing a port scanning cybersecurity laboratory exercise and undergraduate students listening to a cybersecurity lecture on port scanning?*  
 
 #### Week 2  
 
@@ -504,3 +514,12 @@ How do undergraduate students perceive academic research opportunities compared 
 
 What are best practices in soliciting undergraduate student participation in writing and publishing academic research?  
 
+
+#### Week 3  
+
+
+#### Week 4
+
+
+## <a name="October">October
+#### Week 1
