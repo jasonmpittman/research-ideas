@@ -17,6 +17,7 @@ Thus, I encourage you to use these ideas as springboards for your own research. 
 7. [July](#July)
 8. [August](#August)
 9. [September](#September)
+10. [October](#October)
 
 ## <a name="January"></a>January
 #### Week 1
@@ -318,7 +319,6 @@ What are best practices for structuring assignments from the perspective of unde
 *What quantitative data analysis topics are appropriate for case study based graduate course?*
 
 *What are appropriate academic assessment measures for an online, case method driven graduate quantitative data analysis course?*  
-
 #### Week 4
 *What are the publishing trends in gamification of computer science undergraduate education in the United States?*  
 
@@ -381,7 +381,6 @@ What decision-making processes are used by undergraduate STEM program students t
 How common is lateral job movement between specialties within the cybersecurity profession?  
 
 #### Week 4
-
 How do undergraduate faculty determine an optimal pedagogy for cybersecurity coursework?  
 
 To what extent are adjunct faculty aware of prominent cognitive learning theories?
@@ -412,7 +411,6 @@ What are common learning outcomes for an undergraduate cybersecurity curriculum 
 
 ## <a name="August">August
 #### Week 1
-
 Do Android vulnerabilities potentially vary with released feature changes?  
 
 How does OWASP top ten potentially vary with trends in developer application stacks?  
@@ -428,7 +426,6 @@ Do programmers perceive programming languages to be insecure or the implementati
 To what extent can evolutionary biology inform the understanding of why secure coding *awareness training* does not appear to be effective? 
 
 #### Week 2  
-
 *To what extent can monitoring of EEG patterns differentiate between natural neurotranmissions and synthetic neurotranmissions?*  
 
 *To what degree can EEG signals be captured and replayed such that a brain-computer interface action is replicable?*  
@@ -444,7 +441,6 @@ To what extent can evolutionary biology inform the understanding of why secure c
 *How can software be developed such that UI features, menu configurations, and feedback adapt to user mental state as measured through non-invasive brain-computer interface?*
 
 #### Week 3  
-
 How is the methodology of constructing an ontology potentially related to a progressive Trivium model?  
 
 To what extent does (simulated) environment inform development of ontologies?  
@@ -460,7 +456,6 @@ What are common limitations associated with ontology construction?
 What are common error points in ontology construction methodology?
 
 #### Week 4  
-
 What are the common differences and similarities between an ontology and a taxonomy?  
 
 How does a taxonomy extend an establish ontology?  
@@ -476,7 +471,6 @@ How does the mean time for *tag* evolution in a folksonomy compare to the mean t
 Which construct has a shorter mean lifespan: taxonomy, folksonomy, or ontology?  
 
 #### Week 5
-
 What is the optimal strategy for determining search keywords when conducting literature review?  
 
 To what extent do readers of academic research rate those studies with high keyword density and consistency in fundamental statements higher than studies with lower keyword density in the same statements?  
@@ -493,7 +487,6 @@ Are there common decision-making strategies employed by doctoral students to det
 
 ## <a name="September">September  
 #### Week 1  
-
 *To what extent is the EEG pattern different between non-invasive brain-computer interface wearers when executing the same brain speller exercise?*  
 
 *How do community college students perceive the cybersecurity risks associated with non-invasive brain-computer interfaces?*  
@@ -509,14 +502,26 @@ Are there common decision-making strategies employed by doctoral students to det
 *How similar are EEG patterns between undergraduate students completing a port scanning cybersecurity laboratory exercise and undergraduate students listening to a cybersecurity lecture on port scanning?*  
 
 #### Week 2  
-
 How do undergraduate students perceive academic research opportunities compared to graduate students?  
 
 What are best practices in soliciting undergraduate student participation in writing and publishing academic research?  
 
+What is the mean time for a STEM field related academic journal to reach an impact factor perceived to be legitimate by researchers?  
+
+What are the top twenty keywords appearing in cybersecurity-related journal call-for-papers?  
+
+To what extent are hybrid or online-only conferences trending positive in STEM fields?  
+
+
 
 #### Week 3  
+*What pedagogical strategies are most commonly used in teaching cybersecurity matched concept and tools (e.g. port scanning and nmap)?*  
 
+*To what extent do undergraduate students with non-cybersecurity majors perceive the pedagogy of laboratory exercises differently than cybersecurity majors?*  
+
+*To what degree do undergraduate cybersecurity students rate traditional lecture with standard assignments, lecture with lab assignments, and flipped lab and lecture, in a statistically significant different manner?*  
+
+How do students perceive pre-recorded lectures compared to traditional lectures in STEM majors?
 
 #### Week 4
 
