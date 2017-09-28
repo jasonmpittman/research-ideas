@@ -512,7 +512,9 @@ What are the top twenty keywords appearing in cybersecurity-related journal call
 
 To what extent are hybrid or online-only conferences trending positive in STEM fields?  
 
+What are the common factors that lead students to not participants in academic research opportunities?  
 
+What are the potential incentives offered to undergraduate STEM majors that lead to a sustained research and publication engagement?
 
 #### Week 3  
 *What pedagogical strategies are most commonly used in teaching cybersecurity matched concept and tools (e.g. port scanning and nmap)?*  
@@ -521,9 +523,18 @@ To what extent are hybrid or online-only conferences trending positive in STEM f
 
 *To what degree do undergraduate cybersecurity students rate traditional lecture with standard assignments, lecture with lab assignments, and flipped lab and lecture, in a statistically significant different manner?*  
 
-How do students perceive pre-recorded lectures compared to traditional lectures in STEM majors?
+How do students perceive pre-recorded lectures compared to traditional lectures in STEM majors?  
+
+Is there a statistically significant difference in student academic performance between a traditional cybersecurity course, the same course taught hybrid on-campus and online, and the same course taught online only?  
+
+Is there a statistically significant difference in student academic performance between an online asynchronous cybersecurity course and the same course taught synchronously?
+
+What are the potential perceptional differences between undergraduate cybersecurity students with learning cybersecurity theory only, cybersecurity theory coupled with applied tools, and applied tools only?  
 
 #### Week 4
+
+To what extent is there a quantifiable relationship between the time necessary to make a programmatic change (i.e., bug fix) and the time to quality assurance test the change?  
+
 
 
 ## <a name="October">October
