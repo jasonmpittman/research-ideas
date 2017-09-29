@@ -532,10 +532,18 @@ Is there a statistically significant difference in student academic performance 
 What are the potential perceptional differences between undergraduate cybersecurity students with learning cybersecurity theory only, cybersecurity theory coupled with applied tools, and applied tools only?  
 
 #### Week 4
+To what extent is there a quantifiable relationship between the time necessary to make a programmatic change (i.e., bug fix) and the time to QA test the change?  
 
-To what extent is there a quantifiable relationship between the time necessary to make a programmatic change (i.e., bug fix) and the time to quality assurance test the change?  
+Is there a statistically significant difference between the incidences of common types of memory management software defects in open source C programs?  
 
+Is there a statistically significant difference between the incidences of integer-based security flaws, string-based security flaws, and memory management based security flaws in open source C programs?  
 
+How do undergraduate computer science students perceive secure coding best practices?  
+
+To what degree do computer science undergraduate students and cybersecurity undegraduate students describe the purpose of *software* differently?  
+
+To what extent are computer science students able to describe common C compiler (gcc) hardening flags?  
+What are the potential differences in perception of software between a general C programmer and C programmer cognizant of common security flaws?
 
 ## <a name="October">October
 #### Week 1
