@@ -546,4 +546,5 @@ To what extent are computer science students able to describe common C compiler 
 What are the potential differences in perception of software between a general C programmer and C programmer cognizant of common security flaws?
 
 ## <a name="October">October
-#### Week 1
+#### Week 1  
+What elements are considered best practices for academic writing plans by authoritative references in research pedagogy?
