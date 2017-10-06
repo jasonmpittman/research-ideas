@@ -547,4 +547,17 @@ What are the potential differences in perception of software between a general C
 
 ## <a name="October">October
 #### Week 1  
-What elements are considered best practices for academic writing plans by authoritative references in research pedagogy?
+What elements are considered best practices for academic writing plans by authoritative references in research pedagogy?  
+
+To what extent are doctoral students that use writing plans more successful in authoring a dissertation than doctoral students that do no use writing plans?  
+
+What effect does a visual cue (i.e., screen darkening) have on writing efficiency when the cue is triggered by focus distraction?  
+Is there a specific visual cue that most effectively resets focus during writing?  
+
+What are some common, measurable behavioral cues that signify that focus is drifting during writing?  
+
+What are common behavioral cues- measurable through eye movement, facial muscle tick, and EEG pattern- that signify that focus is drifting during reading?  
+
+To what extent are behavioral cues usable as action triggers for specific phases of a writing plan (e.g., planning, outlining, writing proper, etc.)?  
+
+#### Week 2
