@@ -560,4 +560,12 @@ What are common behavioral cues- measurable through eye movement, facial muscle 
 
 To what extent are behavioral cues usable as action triggers for specific phases of a writing plan (e.g., planning, outlining, writing proper, etc.)?  
 
-#### Week 2
+#### Week 2  
+
+How do undergraduate students perceive the use of lecture notes in computer science, mathematics, and cybersecurity courses compared to presentation slides?  
+
+What Flesch-Kincaid reading level for undergraduate lecture notes is perceived to be *informational* by students in STEM courses?  
+To what extent is there a different optimal quantity of example problems in lecture notes compared to lecture in an undergraduate discrete mathematics course?  
+
+
+
