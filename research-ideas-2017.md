@@ -567,5 +567,15 @@ How do undergraduate students perceive the use of lecture notes in computer scie
 What Flesch-Kincaid reading level for undergraduate lecture notes is perceived to be *informational* by students in STEM courses?  
 To what extent is there a different optimal quantity of example problems in lecture notes compared to lecture in an undergraduate discrete mathematics course?  
 
+How does the availability of bonus problem sets potentially influence student engagement during undergraduate discrete mathematics course?  
 
+What is the optimal point value of a bonus problem set in an undergraduate discrete mathematics course relative to the number of problems in the set?
+
+What content, if any, do students find *most valuable* in undergraduate discrete mathematics lecture notes?  
+
+To what extent do undergraduate discrete mathematics students complete reading assignments when lecture notes are available compared to when lecture notes are not available?   
+
+#### Week 3  
+
+What information artifacts are residual to the use of GPU for security-based computing (e.g. IDS)?  
 
