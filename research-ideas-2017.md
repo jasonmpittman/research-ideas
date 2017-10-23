@@ -561,10 +561,10 @@ What are common behavioral cues- measurable through eye movement, facial muscle 
 To what extent are behavioral cues usable as action triggers for specific phases of a writing plan (e.g., planning, outlining, writing proper, etc.)?  
 
 #### Week 2  
-
 How do undergraduate students perceive the use of lecture notes in computer science, mathematics, and cybersecurity courses compared to presentation slides?  
 
 What Flesch-Kincaid reading level for undergraduate lecture notes is perceived to be *informational* by students in STEM courses?  
+
 To what extent is there a different optimal quantity of example problems in lecture notes compared to lecture in an undergraduate discrete mathematics course?  
 
 How does the availability of bonus problem sets potentially influence student engagement during undergraduate discrete mathematics course?  
@@ -578,4 +578,22 @@ To what extent do undergraduate discrete mathematics students complete reading a
 #### Week 3  
 
 What information artifacts are residual to the use of GPU for security-based computing (e.g. IDS)?  
+
+What is the potential impact of transfer credit on time to completion for doctoral students?  
+
+To what extent is application essay Flesch-Kincaid readability a factor in time to completion in an online synchronous doctor of science program?  
+
+To what extent does mean time between Institutional Review Board approval and dissertation writing completion predict overall quality?  
+
+To what degree do application date compared to deadline, transfer credits, and SAT score correlate with mean first year undegraduate GPA?  
+
+What are potential common factors in doctotal student failure to complete the writing phase of the dissertation?  
+
+Do faculty or administration have a more significant impact on doctoral student completion?  
+
+#### Week 4  
+
+
+
+
 
