@@ -18,6 +18,7 @@ Thus, I encourage you to use these ideas as springboards for your own research. 
 8. [August](#August)
 9. [September](#September)
 10. [October](#October)
+11. [November](#November)
 
 ## <a name="January"></a>January
 #### Week 1
@@ -576,7 +577,6 @@ What content, if any, do students find *most valuable* in undergraduate discrete
 To what extent do undergraduate discrete mathematics students complete reading assignments when lecture notes are available compared to when lecture notes are not available?   
 
 #### Week 3  
-
 What information artifacts are residual to the use of GPU for security-based computing (e.g. IDS)?  
 
 What is the potential impact of transfer credit on time to completion for doctoral students?  
@@ -585,15 +585,27 @@ To what extent is application essay Flesch-Kincaid readability a factor in time 
 
 To what extent does mean time between Institutional Review Board approval and dissertation writing completion predict overall quality?  
 
-To what degree do application date compared to deadline, transfer credits, and SAT score correlate with mean first year undegraduate GPA?  
+To what degree do application date compared to deadline, transfer credits, and SAT score correlate with mean first year undergraduate GPA?  
 
-What are potential common factors in doctotal student failure to complete the writing phase of the dissertation?  
+What are potential common factors in doctoral student failure to complete the writing phase of the dissertation?  
 
 Do faculty or administration have a more significant impact on doctoral student completion?  
 
 #### Week 4  
+To what extent is there a long-tail phenomenon associated with academic literature?  
 
+How has the total number of academic journal articles grown in relationship to the number of doctoral degrees conferred annually in the United States?  
 
+To what degree has the publication of topic-level literature review changed in STEM fields over the past 5, 10, and 20 years?  
 
+To what extent are literature reviews in STEM cited more often than seminal literature in the same fields?  
 
+How do doctoral students describe the value and importance of published literature reviews to their selected dissertation topic?  
+
+What is the measured impact factor of published literature reviews compared to quantitative studies that demonstrate a positive effect in the selected phenomenon?  
+
+How do journal editors of STEM focused journals describe the value and importance of publishing literature reviews?  
+
+## <a name="November"></a>November
+#### Week 1 
 
