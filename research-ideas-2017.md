@@ -608,4 +608,18 @@ How do journal editors of STEM focused journals describe the value and importanc
 
 ## <a name="November"></a>November
 #### Week 1 
+What are the potential relationships in EEG patterns between programming and music composition?
 
+To what extent is there a common music genre that programmers may be predisposed to favor?  
+
+In what ways do programmers and music composers display similar behavioral patterns?  
+
+Do programmers exhibit similar behavioral and neural patterns when listening to music compared to podcasts?  
+
+Is programming more similar to music composing or music conducting when measured through behavioral and neural activity?  
+
+How does music from different music genres that share common note and timing structures (e.g., jazz and technical death metal) produce similar neural markers in programmers?  
+
+What are the potential effects of self-selected music genre compared to externally selected music genre on programmer productivity?  
+
+#### Week 2
