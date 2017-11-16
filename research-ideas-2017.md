@@ -623,3 +623,19 @@ How does music from different music genres that share common note and timing str
 What are the potential effects of self-selected music genre compared to externally selected music genre on programmer productivity?  
 
 #### Week 2
+To what extent can an effective community of practice be developed through social media?  
+
+To what degree are STEM academics less active in social media than STEM professionals?  
+
+How do STEM academics perceive the value of social media as a means of developing research collaborations?  
+
+What are the most common criticisms of using social media as a community of practice platform amongst STEM academics?  
+
+What are the most effective modalities for developing a research focused community of practice in STEM?  
+
+To what extent do STEM academics engage in distance (virtual) conference participation?  
+
+How are virtual conferences perceived by STEM academics compared to traditional, non-virtual conferences?  
+
+#### Week 3  
+
