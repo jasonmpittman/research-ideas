@@ -638,4 +638,19 @@ To what extent do STEM academics engage in distance (virtual) conference partici
 How are virtual conferences perceived by STEM academics compared to traditional, non-virtual conferences?  
 
 #### Week 3  
+*What functionality and features would be necessary to implement a stateful firewall type control within an EEG-based non-instrusive brain-machine interface?*  
+
+*To what degree is it possible to implement a firewall type control between the brain signal acquisition phase and the preprocessor in a non-intrusive brain-mechin interface?*
+
+*How do participants describe the advantages and disadvantages of brain-computer interfaces for autonomic control of IoT devices?*  
+
+*What are common security and privacy concerns for non-intrusive brain-computer interfaces?*
+
+*To what extent are participants willing to use brain-machine interfaces in lieu of traditional input mechanisms (e.g. keyboard, mouse)?*  
+
+*To what degree do users of non-intrusive brain-machine interfaces perceive the device as assistive, additiive, or externalized?*  
+
+*What are the possible modalities in which non-intrusive brain-machine interfaces exceed the scope of access to computing systems compared to traditional human-computer interaction?*  
+
+#### Week 4  
 
