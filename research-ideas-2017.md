@@ -653,4 +653,20 @@ How are virtual conferences perceived by STEM academics compared to traditional,
 *What are the possible modalities in which non-intrusive brain-machine interfaces exceed the scope of access to computing systems compared to traditional human-computer interaction?*  
 
 #### Week 4  
+How do professional programmers describe the normative ethic of developing secure code?  
 
+Why is the apparent normative ethic in programming to *not* develop using secure coding principles?  
+
+To what extent do programmers consider societal impact of decisions to use unsafe versus safe functions?  
+Does the *right* of a program user imply the *duty* for a programmer to produce secure code or does the *right* of the company to release software imply a *duty* for a programmer to simply produce code?  
+
+To what extent is there a measurable, culturally grounded difference in the production of secure code?  
+
+How do program users describe the ethics of secure code compared to programmers?  
+
+Do programmers perceive the ethics of secure coding as metaethics, normative, or applied?  
+
+To what extent is secure coding perceived as a universal duty ethic?
+
+## <a name="December"></a>December
+#### Week 1 
