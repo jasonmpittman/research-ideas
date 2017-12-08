@@ -19,6 +19,7 @@ Thus, I encourage you to use these ideas as springboards for your own research. 
 9. [September](#September)
 10. [October](#October)
 11. [November](#November)
+12. [December](#December)
 
 ## <a name="January"></a>January
 #### Week 1
@@ -670,3 +671,16 @@ To what extent is secure coding perceived as a universal duty ethic?
 
 ## <a name="December"></a>December
 #### Week 1 
+To what extent can a multi-agent pathfinding algorithm optimize the collection of decentralized data objects in a mesh network topology?
+
+How do artificial life agents *describe* a bounded confinement field when permitted to evolve environmental language?  
+
+What is the hardware resource threshold for the number of IoT devices whereby distributed computation is effective for communication pathway optimization within the same IoT network mesh?
+
+To what extent is a ANN effective at real-time cybersecurity classification and prioritization for ingress traffic?
+
+To what extent does existing artificial immune system research accurately describe mammalian immune system characteristics?
+
+How would a synthetic intelligence describe an optimized semantic ontology for human-robot team communications?
+
+What are common cognitive task delegation decision modalities for use in human-robot teaming?
