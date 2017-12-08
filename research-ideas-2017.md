@@ -638,18 +638,35 @@ To what extent do STEM academics engage in distance (virtual) conference partici
 How are virtual conferences perceived by STEM academics compared to traditional, non-virtual conferences?  
 
 #### Week 3  
-To what extent can a multi-agent pathfinding algorithm optimize the collection of decentralized data objects in a mesh network topology?  
+*What functionality and features would be necessary to implement a stateful firewall type control within an EEG-based non-instrusive brain-machine interface?*  
 
-How do artificial life agents *describe* a bounded confinement field when permitted to evolve environmental language?  
+*To what degree is it possible to implement a firewall type control between the brain signal acquisition phase and the preprocessor in a non-intrusive brain-mechin interface?*
 
-What is the hardware resource threshold for the number of IoT devices whereby distributed computation is effective for communication pathway optimization within the same IoT network mesh?  
+*How do participants describe the advantages and disadvantages of brain-computer interfaces for autonomic control of IoT devices?*  
 
-To what extent is a ANN effective at real-time cybersecurity classification and prioritization for ingress traffic?  
+*What are common security and privacy concerns for non-intrusive brain-computer interfaces?*
 
-To what extent does existing artificial immune system research accurately describe mammalian immune system characteristics?  
+*To what extent are participants willing to use brain-machine interfaces in lieu of traditional input mechanisms (e.g. keyboard, mouse)?*  
 
-How would a synthetic intelligence describe an optimized semantic ontology for human-robot team communications?  
+*To what degree do users of non-intrusive brain-machine interfaces perceive the device as assistive, additiive, or externalized?*  
 
-What are common cognitive task delegation decision modalities for use in human-robot teaming?  
+*What are the possible modalities in which non-intrusive brain-machine interfaces exceed the scope of access to computing systems compared to traditional human-computer interaction?*  
 
-#### Week 4
+#### Week 4  
+How do professional programmers describe the normative ethic of developing secure code?  
+
+Why is the apparent normative ethic in programming to *not* develop using secure coding principles?  
+
+To what extent do programmers consider societal impact of decisions to use unsafe versus safe functions?  
+Does the *right* of a program user imply the *duty* for a programmer to produce secure code or does the *right* of the company to release software imply a *duty* for a programmer to simply produce code?  
+
+To what extent is there a measurable, culturally grounded difference in the production of secure code?  
+
+How do program users describe the ethics of secure code compared to programmers?  
+
+Do programmers perceive the ethics of secure coding as metaethics, normative, or applied?  
+
+To what extent is secure coding perceived as a universal duty ethic?
+
+## <a name="December"></a>December
+#### Week 1 
