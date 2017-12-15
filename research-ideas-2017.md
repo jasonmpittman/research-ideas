@@ -684,3 +684,18 @@ To what extent does existing artificial immune system research accurately descri
 How would a synthetic intelligence describe an optimized semantic ontology for human-robot team communications?
 
 What are common cognitive task delegation decision modalities for use in human-robot teaming?
+
+#### Week 2
+How do completion rates of doctoral students differ between traditional on-campus programs, distance asynchronous programs, and distance hybrid programs?  
+
+To what extent does the recruitment modality of doctoral student predict future success in a distance hybrid doctoral program?  
+
+Do doctoral students that possess a more robust *research lexicon* by the end of the first year in a doctoral program exhibit a higher completion rate compared to students lacking such a lexicon?  
+
+To what degree does periodic competency assessment of faculty relate to doctoral student completion rates?  
+
+What existing cognitive load measurements can be applied to distance hybrid doctoral students such that proactive interventions can be implemented?  
+
+How do distance hybrid doctoral students perceive a requirement to submit a research and writing plan as a precondition to candidacy?  
+
+Which factor is a significant predictor for the other: quality of faculty predicting student success or quality of students predicting competency in faculty?
