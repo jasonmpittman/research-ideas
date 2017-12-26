@@ -699,3 +699,33 @@ What existing cognitive load measurements can be applied to distance hybrid doct
 How do distance hybrid doctoral students perceive a requirement to submit a research and writing plan as a precondition to candidacy?  
 
 Which factor is a significant predictor for the other: quality of faculty predicting student success or quality of students predicting competency in faculty?
+
+#### Week 3
+What elements of scientific peer review impart the notion of scholarly work unto research?  
+
+To what extent does crowdsourced review of written research function in the same manner as elective peer review (e.g., journal, conference)?  
+
+What is the social network density threshold whereby operationalized peer review of written research exceeds the quality in such review when performed through traditional modalities?  
+
+To what degree is crowdsourced review of scholarly writing able to more significantly measure research *significance* compared to traditional review modalities?  
+
+What would be the optimal bounded question instrument to solicit crowdsourced review of scholarly writing?  
+
+What ratio or balance between subject matter experts and non-subject matter experts would be ideal in a crowdsourced research peer review?  
+
+What would be the optimal algorithmic steps in a human-based genetic algorithm designed to crowdsource scientific peer review of written research?  
+
+#### Week 4
+What is the decision making process for selecting and implementing a workflow productivity system?  
+
+What are the common factors between modern workflow productivity systems that lead to increases in personal productivity?
+
+Are there identified elements in workflow productivity systems that stimulate dopamine pathways more optimally than other elements?  
+
+To what extent does physically writing a research article synthesis/summary produce a different EEG pattern than electronically typing?  
+
+Does writing a research article synthesis/summary while sitting produce a significantly different EEG pattern than writing whilst standing?  
+
+Can non-invasive brain-machine interfaces be operationalized to modulate productivity task focus such that types of tasks are dynamically introduced based on EEG state?  
+
+What are the common factors of workflow productivity systems employed by academics with an Author Impact Factor (h-index) of greater than 20 after 20 years?  
